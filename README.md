@@ -3,10 +3,8 @@
  ## Goal:
  Manage the app's state changes efficiently, focusing on core functionalities like **incrementing, decrementing, and resetting a counter.** Instead of rendering changes on the UI, you'll subscribe to state updates and log them to the console, highlighting the power of state management in applications.
 
- ## My Tasks:
 
-
- ## Scenarios:
+ ## Scenarios & My Tasks:
 
  ### SCENARIO 1: Initial State Verification
  - **GIVEN** no interactions have been performed yet
@@ -35,5 +33,5 @@
   - **THEN** the state should display a count of 0
 
  #### In Progress:
-  - Creating the HTML, Javascript and CSS scripts
+  - None
   
